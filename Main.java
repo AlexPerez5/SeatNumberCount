@@ -5,6 +5,8 @@ class Main { //beginning//
   //First Scanner//
   Scanner scan = new Scanner(System.in);
 
+  //Number of seats//
+  
 
   }
 }
